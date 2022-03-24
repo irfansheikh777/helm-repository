@@ -105,8 +105,8 @@ global:
       # file:
     host: 10.99.229.160
     port: 5432
-    # username: gitlab
-    # database: gitlabhq_production
+    username: gitlabadmin
+    database: gitlab
     # applicationName:
     # preparedStatements: false
 
